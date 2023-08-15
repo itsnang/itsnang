@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorn Samnang</h1>
 <h3 align="center">Mobile Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsnang&label=Profile%20views&color=0e75b6&style=flat" alt="itsnang" /> </p>
 
 - 🤝 I’m looking for help with [Prutteka](Prutteka.com)
 
