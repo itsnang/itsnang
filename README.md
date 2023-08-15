@@ -1,17 +1,19 @@
-<p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.gifer.com/4SHX.gif" /></a></p>
+<h1 align="center">Hi 👋, I'm Lorn Samnang</h1>
+<h3 align="center">Mobile Developer</h3>
 
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsnang&label=Profile%20views&color=0e75b6&style=flat" alt="itsnang" /> </p>
 
-**About me**
+- 🤝 I’m looking for help with [Prutteka](Prutteka.com)
 
-- 🎓 A sophmore majoring computer science at <a target="_blank" href="http://www.rupp.edu.kh/">Royal University of Phnom Penh</a>.
+- 📫 How to reach me **huotchhayyy@gmail.com**
 
-- 💯 A scholarship student at <a target="_blank" href="https://www.sabaicode.com/">Sabaicode x Cellcard Bootcamp 2.0</a> learning <strong>Full Stack Development</strong>.
+- ⚡ Fun fact **Play Guitar**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
- 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="next" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"></code>
-<code><img height="20" alt="spring" src="https://img.icons8.com/color/512/spring-logo.png"></code>    
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsnang&show_icons=true&locale=en&layout=compact" alt="itsnang" /></p>
