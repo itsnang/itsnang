@@ -1,11 +1,14 @@
 <p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="20%" alt="Hello, I'm Anurag. I do open source!" src="https://64.media.tumblr.com/473e088055e8da741cd2df8f82b2a0a5/tumblr_nbhpj8xMGy1qg6rkio1_1280.gifv" /></a></p>
 
 
-- 🤝 I’m looking for help with [Prutteka](Prutteka.com)
+<br />
 
-- 📫 How to reach me **huotchhayyy@gmail.com**
+**About me**
 
-- ⚡ Fun fact **Play Guitar**
+- 🎓 A student majoring computer science at <a target="_blank" href="http://www.rupp.edu.kh/">Royal University of Phnom Penh</a>.
+
+- 💯 A scholarship student at <a target="_blank" href="sabaicode.com">Sabaicode x Cellcard Bootcamp 2.0</a> learning <strong>Full Stack Development</strong>.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
