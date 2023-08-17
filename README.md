@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="20%" alt="Hello, I'm Anurag. I do open source!" src="https://www.keytarhq.com/images/cat-rocker-plays-guitar.gif" /></a></p>
+<p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="40%" alt="Hello, I'm Anurag. I do open source!" src="https://media1.giphy.com/media/4BJCvMoLPePq8/giphy.gif?cid=ecf05e47izt33opsnaoom6tweqedmsb1gk3oinwia25p4hg2&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a></p>
 
 
 <br />
