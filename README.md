@@ -7,7 +7,7 @@
 
 - 🎓 A student majoring computer science at <a target="_blank" href="http://www.rupp.edu.kh/">Royal University of Phnom Penh</a>.
 
-- 💯 A scholarship student at <a target="_blank" href="sabaicode.com">Sabaicode x Cellcard Bootcamp 2.0</a> learning <strong>Full Stack Development</strong>.
+- 💯 A scholarship student at <a target="_blank" href="https://www.sabaicode.com/">Sabaicode x Cellcard Bootcamp 2.0</a> learning <strong>Full Stack Development</strong>.
 
 
 <h3 align="left">Connect with me:</h3>
