@@ -9,7 +9,7 @@
 
 - 💯 A scholarship student at <a target="_blank" href="https://www.sabaicode.com/">Sabaicode x Cellcard Bootcamp 2.0</a> learning <strong>Full Stack Development</strong>.
 
-- 💼 Junoir Mobile App Developer at <a target="_blank" href="https://www.cellcard.com.kh/en/">Cellcard</a>.
+- 💼 Mobile App Developer at <a target="_blank" href="https://www.cellcard.com.kh/en/">Cellcard</a>.
 
 
 <h3 align="left">Connect with me:</h3>
