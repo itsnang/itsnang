@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/itsnang" target="_blank">
-    <img width="25%" alt="Hello, I'm Anurag. I do open source!" src="https://media.tenor.com/Ex1pkci_-v8AAAAi/white-cute-cat-hearts.gif" />
+    <img width="25%" alt="Hello, I'm Anurag. I do open source!" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRiZXQ5c3ZmcWlrNmhrNzl2eTk5b2V0eTI2enc3NjAxMTBiYzlndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.webp" />
   </a>
 </p>
 
@@ -47,6 +47,6 @@
      <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" width="40" alt="nodejs logo"  />
   </a>
   <a href="https://www.serverless.com/framework/docs/getting-started" target="_blank" rel="noreferrer">
-     <img src="https://user-images.githubusercontent.com/2752551/30405069-a7751fee-989e-11e7-9a58-f93f8e820bd1.png" height="40" width="40" alt="nodejs logo"  />
+     <img src="https://user-images.githubusercontent.com/2752551/30405068-a7733b34-989e-11e7-8f66-7badaf1373ed.png" height="40" width="40" alt="nodejs logo"  />
   </a>
 </p>
