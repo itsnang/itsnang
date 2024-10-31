@@ -46,4 +46,7 @@
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
      <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" width="40" alt="nodejs logo"  />
   </a>
+  <a href="https://www.serverless.com/framework/docs/getting-started" target="_blank" rel="noreferrer">
+     <img src="https://user-images.githubusercontent.com/2752551/30405069-a7751fee-989e-11e7-9a58-f93f8e820bd1.png" height="40" width="40" alt="nodejs logo"  />
+  </a>
 </p>
