@@ -40,9 +40,6 @@
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
     <img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc" alt="Nuxt.js" title="Nuxt.js"/>
   </a>
-  <a href="https://tailwindcss.com//" target="_blank" rel="noreferrer">
-     <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" width="40" alt="tailwindcss logo"  />
-  </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
      <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" width="40" alt="nodejs logo"  />
   </a>
