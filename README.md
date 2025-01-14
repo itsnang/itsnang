@@ -47,3 +47,5 @@ About me
      <img src="https://user-images.githubusercontent.com/2752551/30405068-a7733b34-989e-11e7-8f66-7badaf1373ed.png" height="40" width="40" alt="nodejs logo"  />
   </a>
 </p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsnang&show_icons=true&locale=en&layout=compact" alt="itsnang" />
