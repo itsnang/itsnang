@@ -3,46 +3,37 @@
 
 ```bash
 $ whoami
-lorn.samnang@developer:~$ cat about.txt
+lorn.samnang@developer:~$ cat ./about_me.md
 
 ┌─────────────────────────────────────────────────────────────────┐
-│                        SYSTEM INFORMATION                       │
+│                      SOFTWARE ENGINEER                          │
 ├─────────────────────────────────────────────────────────────────┤
-│ USER: Lorn Samnang                                              │
-│ ROLE: Software Engineer & Mobile App Developer                 │
-│ LOCATION: Phnom Penh, Cambodia                                 │
-│ STATUS: Building scalable solutions                             │
+│ NAME: Lorn Samnang                                              │
+│ ROLE: Mid-Level Engineer | Mobile & Web Development             │
+│ LOCATION: Phnom Penh, Cambodia                                  │
+│ STATUS: Building and maintaining robust applications with a     │
+│         focus on clean architecture and system performance.     │
 └─────────────────────────────────────────────────────────────────┘
 
-$ ls -la experience/
-drwxr-xr-x  3 samnang developer 4096 Aug 17 2025 .
-drwxr-xr-x 15 samnang developer 4096 Aug 17 2025 ..
--rw-r--r--  1 samnang developer  512 Nov 15 2023 cellcard_engineer.txt
--rw-r--r--  1 samnang developer  256 Aug 17 2025 education.txt
+$ ls -l experience/
+total 2
+-rw-r--r-- 1 samnang developer 512 Nov 15 2023 professional_experience.log
+-rw-r--r-- 1 samnang developer 256 Aug 17 2025 education_and_achievements.md
 
-$ cat experience/cellcard_engineer.txt
-💼 Mobile App Engineer @ Cellcard (CAMGSM PLC.) | Nov 2023 - Present
-   ├── Worked and learn Cellcard Selfcare App with Flutter & Clean Architecture
-   ├── Developed Sales Force App with Google Maps integration
-   ├── Rewrote Cellcard Website using Next.js
-   └── Integrated CCPG Payment Gateway with multiple banking options with NextJs
+$ cat experience/professional_experience.log
+💼 Software Engineer @ Cellcard (CAMGSM PLC.) | Nov 2023 - Present
+   ├── Own feature development and maintenance for the Cellcard Selfcare App with Flutter & Clean Architecture.
+   ├── Built the Sales Force App, integrating Google Maps for core real-time tracking functionality.
+   ├── Implemented key frontend modules for the modernization of the Cellcard Website using Next.js.
+   └── Successfully integrated the CCPG Payment Gateway, enabling secure transactions with multiple banking partners.
 
-$ cat experience/education.txt  
-🎓 Computer Science Student @ Royal University of Phnom Penh | 2021-2025
-🏆 Sabaicode x Cellcard Bootcamp Graduate | Full Stack Development
-📜 TOP 2 Turing Hackathon | Performance Enhancement Specialist
-
-$ echo $SPECIALIZATION
-"Web Development, Mobile Development, Real-world Solutions"
-
-$ tail -f current_projects.log
-[2025-08-17] 📱 Enhancing Cellcard ecosystem with Flutter & Node.js
-[2025-08-17] ⚡ Optimizing performance with Clean Architecture patterns
-[2025-08-17] 🌐 Building scalable web solutions with Next.js & React
-[2025-08-17] 🔧 Integrating AWS services with Serverless architecture
+$ cat experience/education_and_achievements.md
+🎓 BSc in Computer Science @ Royal University of Phnom Penh | 2021-2025
+🏆 Graduate of Sabaicode x Cellcard Full Stack Development Bootcamp
+🥇 TOP 2 @ Turing Hackathon | Focused on application performance optimization.
 
 $ fortune
-"Quality is not an act, it is a habit." - Aristotle
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
 ```
 
 ---
