@@ -22,10 +22,10 @@ drwxr-xr-x 15 samnang developer 4096 Aug 17 2025 ..
 
 $ cat experience/cellcard_engineer.txt
 💼 Mobile App Engineer @ Cellcard (CAMGSM PLC.) | Nov 2023 - Present
-   ├── Built Cellcard Selfcare App with Flutter & Clean Architecture
+   ├── Worked and learn Cellcard Selfcare App with Flutter & Clean Architecture
    ├── Developed Sales Force App with Google Maps integration
-   ├── Rewrote Cellcard Website using Next.js (20% performance boost)
-   └── Integrated CCPG Payment Gateway with multiple banking options
+   ├── Rewrote Cellcard Website using Next.js
+   └── Integrated CCPG Payment Gateway with multiple banking options with NextJs
 
 $ cat experience/education.txt  
 🎓 Computer Science Student @ Royal University of Phnom Penh | 2021-2025
