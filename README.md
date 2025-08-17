@@ -30,7 +30,6 @@ $ cat experience/professional_experience.log
 $ cat experience/education_and_achievements.md
 🎓 BSc in Computer Science @ Royal University of Phnom Penh | 2021-2025
 🏆 Graduate of Sabaicode x Cellcard Full Stack Development Bootcamp
-🥇 TOP 2 @ Turing Hackathon | Focused on application performance optimization.
 
 $ fortune
 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
