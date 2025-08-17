@@ -1,14 +1,3 @@
-# 🚀 Welcome to My Digital Universe
-
-<p align="center">
-  <a href="https://github.com/itsnang" target="_blank">
-    <img width="30%" alt="Hello, I'm Nang. I craft digital experiences!" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRiZXQ5c3ZmcWlrNmhrNzl2eTk5b2V0eTI2enc3NjAxMTBiYzlndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.webp" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+App+Developer;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
-</div>
 
 ## 🌟 About Me
 
