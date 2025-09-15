@@ -20,12 +20,6 @@ total 2
 -rw-r--r-- 1 samnang developer 512 Nov 15 2023 professional_experience.log
 -rw-r--r-- 1 samnang developer 256 Aug 17 2025 education_and_achievements.md
 
-$ cat experience/professional_experience.log
-💼 Software Engineer @ Cellcard (CAMGSM PLC.) | Nov 2023 - Present
-   ├── Own feature development and maintenance for the Cellcard Selfcare App with Flutter & Clean Architecture.
-   ├── Built the Sales Force App, integrating Google Maps for core real-time tracking functionality.
-   ├── Implemented key frontend modules for the modernization of the Cellcard Website using Next.js.
-   └── Successfully integrated the CCPG Payment Gateway, enabling secure transactions with multiple banking partners.
 
 $ cat experience/education_and_achievements.md
 🎓 BSc in Computer Science @ Royal University of Phnom Penh | 2021-2025
