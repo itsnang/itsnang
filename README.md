@@ -9,10 +9,8 @@ lorn.samnang@developer:~$ cat ./about_me.md
 │                      SOFTWARE ENGINEER                          │
 ├─────────────────────────────────────────────────────────────────┤
 │ NAME: Lorn Samnang                                              │
-│ ROLE: Mid-Level Engineer | Mobile & Web Development             │
+│ ROLE: Full Stack | Mobile App Developer                         │
 │ LOCATION: Phnom Penh, Cambodia                                  │
-│ STATUS: Building and maintaining robust applications with a     │
-│         focus on clean architecture and system performance.     │
 └─────────────────────────────────────────────────────────────────┘
 
 $ ls -l experience/
@@ -48,7 +46,7 @@ $ fortune
 
 <div align="center">
 
-### 💪 Proficient Technologies
+
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
@@ -57,10 +55,9 @@ $ fortune
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### 🔧 Additional Technologies
+
 <p>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -88,14 +85,14 @@ $ fortune
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsnang&theme=tokyo-night&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 💭 Random Dev Quote
+##  Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
